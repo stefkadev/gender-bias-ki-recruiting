@@ -1,4 +1,4 @@
-Gruppe,n (Testdaten),Positive Rate,DIR (vs. Weiße Männer)
+Gruppe,n (Testdaten),Positive Rate,Disparate Impact (vs. Weiße Männer)
 Weiße Männer,3836,0.2831,1.0
 Weiße Frauen,1732,0.0964,0.3406
 Schwarze Männer,320,0.1469,0.5188

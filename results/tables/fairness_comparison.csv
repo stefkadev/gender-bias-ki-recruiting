@@ -1,5 +1,5 @@
 Metrik,Baseline,Nach Reweighing,Verbesserung
-Statistical Parity Difference,-0.1822,-0.17598273371485063,0.0062
-Disparate Impact Ratio,0.3252,0.3316335200376753,0.0064
-Equalized Odds TPR Difference,-0.0699,-0.05841221113669304,0.0115
-Equalized Odds FPR Difference,-0.0877,-0.08361302015228123,0.0041
+Demographic Parity,-0.1822,-0.17598273371485063,0.0062
+Disparate Impact,0.3252,0.3316335200376753,0.0064
+Equalized Odds TPR,-0.0699,-0.05841221113669304,0.0115
+Equalized Odds FPR,-0.0877,-0.08361302015228123,0.0041

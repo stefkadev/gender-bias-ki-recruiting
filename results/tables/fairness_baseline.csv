@@ -1,5 +1,5 @@
 Metrik,Wert,Schwellenwert,Interpretation
-Statistical Parity Difference,-0.18216964167771021,0.0,Negativ = Frauen benachteiligt
-Disparate Impact Ratio,0.3251829756033844,0.8,Unter 0.8 = diskriminierend
+Demographic Parity,-0.18216964167771021,0.0,Negativ = Frauen benachteiligt
+Disparate Impact,0.3251829756033844,0.8,Unter 0.8 = diskriminierend
 Equalized Odds TPR Difference,-0.06992410676217276,0.0,Negativ = Frauen benachteiligt
 Equalized Odds FPR Difference,-0.08767156866505307,0.0,Negativ = Frauen benachteiligt
